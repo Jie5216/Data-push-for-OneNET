@@ -1,5 +1,10 @@
 <?php
-
+/**
+ * 
+ * @title OneNET数据推送PHP SDK/OneNET Data Push PHP SDK
+ * @author K
+ * @date 2018-01-28
+ */
 // $content = file_get_contents("php://input");
 // $array = json_decode($content,true);
 // $nonce = $array['nonce'];
