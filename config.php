@@ -2,8 +2,8 @@
 /**
  * 
  * @title OneNET数据推送PHP Demo/OneNET Data Push PHP Demo
- * @author limao (limao777@126.com)
- * @date 2017
+ * @author K
+ * @date 2018-01-28
  */
 require_once 'util.php';
 /**
